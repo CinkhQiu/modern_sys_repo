@@ -1,1 +1,1 @@
-// 日志缓冲队列（线程安全队列）
+// 后台线程实现 / Background log writer implementation

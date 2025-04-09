@@ -1,1 +1,1 @@
-// 单条日志消息结构体
+// 日志消息结构体 / Structure for individual log messages

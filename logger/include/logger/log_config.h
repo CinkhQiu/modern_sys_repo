@@ -1,1 +1,1 @@
-// 日志配置结构体（路径、等级等）
+// 日志配置（路径、等级、异步等）/ Logger config definitions

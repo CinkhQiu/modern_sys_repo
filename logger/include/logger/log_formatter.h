@@ -1,0 +1,1 @@
+// 日志格式化模块 / Message formatter interface

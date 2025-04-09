@@ -1,1 +1,1 @@
-// 主接口头文件
+// 日志模块主接口（对外暴露） / Main logger interface

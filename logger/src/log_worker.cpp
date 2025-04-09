@@ -1,1 +1,1 @@
-// 后台线程（日志落地）
+// 后台线程实现 / Background log writer implementation

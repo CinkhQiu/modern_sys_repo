@@ -1,0 +1,1 @@
+// 后台线程类声明 / Background log writer thread (declaration)

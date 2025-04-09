@@ -1,1 +1,1 @@
-// 工具类（时间戳、线程ID等）
+// 工具函数实现 / Utility functions (timestamps, thread IDs)

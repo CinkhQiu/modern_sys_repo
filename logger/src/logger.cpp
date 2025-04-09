@@ -1,1 +1,1 @@
-// 主接口实现
+// 日志系统主要逻辑 / Main logger implementation

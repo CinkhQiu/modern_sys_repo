@@ -1,0 +1,1 @@
+// 时间戳、线程ID等工具函数 / Time/thread ID utility functions
