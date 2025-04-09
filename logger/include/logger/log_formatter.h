@@ -21,7 +21,7 @@ class log_formatter {
      */
     static std::string format(const log_message &msg);
 
-    // 未来：你可以支持模板格式、JSON 格式、颜色输出等
+    // 未来：支持模板格式、JSON 格式、颜色输出等
 };
 
 } // namespace logger
